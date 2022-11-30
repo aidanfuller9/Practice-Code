@@ -1,6 +1,6 @@
 body {
     font-family: 'Trebuchet MS';
-    background-color: #8fc7c5;
+    background-color: #cbf9f7;
 }
 .row {
   display: flex;
@@ -14,6 +14,13 @@ body {
     margin:20px;
 }
 
+.row3{
+  display:flex;
+  justify-content:space-around;
+  margin:20px;
+}
+
+
 .head {
     text-align:center;
 }
@@ -22,15 +29,30 @@ body {
   text-align:center;
 }
 
+.head3 {
+  text-align:center;
+}
+
 .col {
   width:500px;
-  text-align: left;
+  text-align: center;
   border: 3px solid black;
   float:left;
   display:block;
   text-align:center;
   margin:5px;
-  background-color:#fada66;
-  font-size:medium;
+  background-color:#51ddc3;
+  padding:10px;
+}
+
+.col2 {
+  width:500px;
+  text-align: center;
+  border: 3px solid black;
+  float:left;
+  display:block;
+  text-align:center;
+  margin:5px;
+  background-color:#41d755;
   padding:10px;
 }

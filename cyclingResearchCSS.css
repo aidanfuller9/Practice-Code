@@ -1,7 +1,7 @@
 body {
     font-size:large;
     font-family: 'Trebuchet MS';
-    background-color: #8fe5e1;
+    background-color: #caeeec;
 }
 
 .row {
@@ -10,12 +10,20 @@ body {
  
 }
 
-.col2 {
+.head {
   text-align:center;
   border: 5px solid black; 
   display:inline-block; 
-  background-color: rgb(57, 220, 70);
-  margin:20px;
+  background-color: rgb(93, 230, 116);
+  padding:10px;
+}
+
+.head2 {
+  text-align:center;
+  border: 5px solid black;
+  display:inline-block;
+  background-color: rgb(93, 230, 116);
+  margin: 20px;
   padding:10px;
 }
 
@@ -26,7 +34,6 @@ body {
   float:left;
   display:block;
   text-align:center;
-  margin:10px;
-  background-color:#66faf0;
-  padding:20px;
+  margin:20px;
+  background-color:#fada66;
 }

@@ -1,6 +1,6 @@
 body {
     font-family: 'Trebuchet MS';
-    background-color: #8fc7c5;
+    background-color: #dcf6f5;
 }
 .row {
   display: flex;
@@ -27,7 +27,7 @@ body {
   display:block;
   text-align:center;
   margin:5px;
-  background-color:#fada66;
+  background-color:#60e4ee;
   font-size:medium;
   padding:10px;
 }
@@ -40,7 +40,7 @@ body {
     display:block;
     text-align:center;
     margin:5px;
-    background-color:#fada66;
+    background-color:#77eb75;
     font-size:x-large;
     padding:10px;
   }
